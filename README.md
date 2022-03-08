@@ -1,4 +1,4 @@
-# javaScript-joke-teller
+# [javaScript-joke-teller](https://alindabyamukama.github.io/js-joke-teller/)
 ## Build a joke teller using JavaScript - HTML - CSS with [ZeroToMastery](https://academy.zerotomastery.io/p/javascript-projects?affcode=441520_sxqftble)
 ---
 ## Topics covered
